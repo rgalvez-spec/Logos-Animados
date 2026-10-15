@@ -1,0 +1,6 @@
+{
+  "name": "LogoMotion AI - Generador de Movimiento para Logos",
+  "description": "Transforma logos estáticos en animaciones cinematográficas de alto impacto mediante Inteligencia Artificial automática y ultrarrápida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
